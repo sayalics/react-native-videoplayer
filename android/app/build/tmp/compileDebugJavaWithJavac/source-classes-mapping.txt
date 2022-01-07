@@ -1,0 +1,14 @@
+com/beacon_learning/ReactNativeFlipper.java
+ com.beacon_learning.ReactNativeFlipper
+ com.beacon_learning.ReactNativeFlipper$1
+ com.beacon_learning.ReactNativeFlipper$2
+ com.beacon_learning.ReactNativeFlipper$2$1
+com/beacon_learning/MainApplication.java
+ com.beacon_learning.MainApplication
+ com.beacon_learning.MainApplication$1
+com/beacon_learning/MainActivity.java
+ com.beacon_learning.MainActivity
+com/beacon_learning/BuildConfig.java
+ com.beacon_learning.BuildConfig
+com/facebook/react/PackageList.java
+ com.facebook.react.PackageList
